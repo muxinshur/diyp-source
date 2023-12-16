@@ -31,10 +31,10 @@ CCTV14,http://119.54.1.220:58000/hls/14/index.m3u8
 CCTV15,http://119.54.1.220:58000/hls/15/index.m3u8
 CCTV16,http://119.54.1.220:58000/hls/16/index.m3u8
 CCTV17,http://119.54.1.220:58000/hls/17/index.m3u8
-CCTV4K,http://119.54.1.220:58000/hls/29/index.m3u8
+CCTV16-4K,http://119.54.1.220:58000/hls/29/index.m3u8
 河南频道,#genre#
 河南卫视,http://219.150.114.71:6610/PLTV1/580/default.m3u8?servicetype=1&m3u8_level=2&IAS
-河南卫视4K,http://219.150.114.79:6610/PLTV2/2780/index.m3u8?icpid=dxrm2&servicetype=1&IAS
+河南卫视-4K,http://219.150.114.79:6610/PLTV2/2780/index.m3u8?icpid=dxrm2&servicetype=1&IAS
 河南都市,http://219.150.114.71:6610/PLTV1/600/default.m3u8?servicetype=1&m3u8_level=2&IAS
 河南民生,http://219.150.114.71:6610/PLTV1/620/default.m3u8?servicetype=1&m3u8_level=2&IAS
 河南法治,http://219.150.114.73:6610/PLTV1/640/index.m3u8?icpid=dxrm1&servicetype=1&IAS
